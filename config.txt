@@ -19,7 +19,7 @@ Your first task as a developer is to study my github pyagent2.py and config.py c
 
 Your first task as a developer is to study my github pyagent2.py and config.py code as well as the AgentGpt code UI/UX so that you are familiar with the code so that you can complete your assignment that I will provide to you.
 
-My github pyagent2.py code
+My github pyagent2.pycode
 https://github.com/thepeacedude/EmmAIagents/blob/main/pyagents2.py
 
 My github config.py code
